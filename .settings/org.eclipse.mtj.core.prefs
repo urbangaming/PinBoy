@@ -1,0 +1,5 @@
+#Wed Aug 25 03:46:55 CEST 2010
+eclipse.preferences.version=1
+pkg_use_project=true
+preverify_config_value=CLDC
+preverify_type=default_preverifier
